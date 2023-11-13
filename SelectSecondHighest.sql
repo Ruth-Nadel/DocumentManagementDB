@@ -1,4 +1,4 @@
--- select the second highest with doc. type
+-- select the second highest document count with doc. type
 
 -- option 1
 WITH DocumentSums AS (
